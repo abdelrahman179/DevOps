@@ -14,11 +14,8 @@
 – Everything about Cloud computing and Web applications
 – Docker, Microservices and Jenkins
 – Continuous Integration and Continuous Delivery (CI/CD)
-– Docker
-- Kubernetes
-– AWS
-– Django & Nginx
-– Ansible & Terraform
+– Kubernetes – AWS
+– Django & Nginx – Ansible & Terraform
 – DevOps Monitoring & visualization
 – Knowing how to design and improve products at a faster pace
 – Knowing how to propose solutions with useful knowledge to your clients for a healthier approach
