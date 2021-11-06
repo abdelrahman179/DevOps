@@ -1,6 +1,9 @@
 # DevOps
 
-Skills gained throughout Sprints BootCamp:
+**Skills gained throughout Sprints BootCamp:**
+
+
+
 – Agile and DevOps mindset
 – DevOps principles and Full cycle
 – DevOps main building blocks
