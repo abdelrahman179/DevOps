@@ -1,6 +1,6 @@
 # DevOps
 
-**Skills gained throughout Sprints BootCamp:**
+**Skills gained throughout DevOps BootCamp:**
 
 
 
