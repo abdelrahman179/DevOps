@@ -1,23 +1,28 @@
 # DevOps
 
-**Skills gained throughout Sprints BootCamp:**
+** Kubernetes: ** 
 
-
-
-– Agile and DevOps mindset
-– DevOps principles and Full cycle
-– DevOps main building blocks
-– Basic networking principles
-– Linux administration and bash scripting
-– Programming using Python
-– Everything about version control
-– Everything about Cloud computing and Web applications
-– Docker, Microservices and Jenkins
-– Continuous Integration and Continuous Delivery (CI/CD)
-– Kubernetes – AWS
-– Django & Nginx – Ansible & Terraform
-– DevOps Monitoring & visualization
-– Knowing how to design and improve products at a faster pace
-– Knowing how to propose solutions with useful knowledge to your clients for a healthier approach
-– Using engineering tools and processes to solve operations challenges
-– Deployment automation and orchestration (like Jenkins, VSTS, Octopus Deploy)
+- Why K8s and Difference Between
+- Docker and K8s
+- Intro “Pods, Replica, Depl, Arch And
+- Desired State”
+- Core Concepts: K8s Cluster
+- Components
+- End to End Test
+- Pods
+- Replica Set and Replica Controller
+- Deployment
+- Demonsets
+- Services
+- Namespaces
+- Limits and Requests
+- Labels and Selectors
+- Taints and Toleration
+- Node Selector and Scheduling
+- Affinity and Toleration
+- Application Life Cycle
+- Storage
+- Networking
+- Ingress
+- Security
+- Troubleshooting
