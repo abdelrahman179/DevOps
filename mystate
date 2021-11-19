@@ -1,0 +1,44 @@
+{
+  "version": 4,
+  "terraform_version": "1.0.11",
+  "serial": 2,
+  "lineage": "36edd56c-66c4-7cf7-d0ae-0eafc145e6c5",
+  "outputs": {},
+  "resources": [
+    {
+      "mode": "managed",
+      "type": "aws_vpc",
+      "name": "myvpc",
+      "provider": "provider[\"registry.terraform.io/hashicorp/aws\"]",
+      "instances": [
+        {
+          "schema_version": 1,
+          "attributes": {
+            "arn": "arn:aws:ec2:us-east-2:128531844412:vpc/vpc-00f9ed71836856bd3",
+            "assign_generated_ipv6_cidr_block": false,
+            "cidr_block": "10.0.0.0/16",
+            "default_network_acl_id": "acl-06fb2d447adcc768e",
+            "default_route_table_id": "rtb-0b609a944d08bdc04",
+            "default_security_group_id": "sg-0ad068165f032b7d3",
+            "dhcp_options_id": "dopt-047e42e3fa7348a21",
+            "enable_classiclink": null,
+            "enable_classiclink_dns_support": null,
+            "enable_dns_hostnames": false,
+            "enable_dns_support": false,
+            "id": "vpc-00f9ed71836856bd3",
+            "instance_tenancy": "default",
+            "ipv6_association_id": "",
+            "ipv6_cidr_block": "",
+            "main_route_table_id": "rtb-0b609a944d08bdc04",
+            "owner_id": "128531844412",
+            "tags": null,
+            "tags_all": {}
+          },
+          "sensitive_attributes": [],
+          "private": "eyJzY2hlbWFfdmVyc2lvbiI6IjEifQ=="
+        }
+      ]
+    }
+  ]
+}
+
